@@ -1,0 +1,18 @@
+{
+    "id" : "Sipti-app",
+    "start_url": "./views/index.ejs",
+    "name": "Sipti App",
+    "short_name" : "SIPTI",
+    "description": "Temukan tempat wisata favorit mu",
+    "display": "standalone",
+    "background_color": "#FFFF",
+    "theme_color": "#D84315",
+    "icons": [
+        {
+            "src": "/images/favicon/icon-72.png",
+            "sizes": "72x72",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}
